@@ -17,11 +17,6 @@
 - Vamos conversar? Contate-me por email: luis.otta0@gmail.com
 
 
-<div>
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisOtavioTNS&show_icons=true&theme=dark&include_all_commts=true&acount_private=true"/>
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOtavioTNS&layout=compact&langs_conut=16&theme=dark"/>
-</div>
-
 <h3 align="left">My Stack ~</h3>
 
 <div style="display: inline_block"><br>
@@ -32,6 +27,12 @@
 </div>
 
 ##
+
+<div>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisOtavioTNS&show_icons=true&theme=dark&include_all_commts=true&acount_private=true"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisOtavioTNS&layout=compact&langs_conut=16&theme=dark"/>
+</div>
+
 <img align="right" alt="" height="190px" src="./src/study.gif">
 
 <h3 align="left">Connect with me!</h3>
