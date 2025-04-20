@@ -10,7 +10,7 @@
 
 ## Hello World! I'm Luis Otavio. 
 
-- Atualmente trabalho na Prefeitura Municipal, atuando no setor de Marketing, onde desenvolvo e apoio estratégias de comunicação digital.
+<p align="center">- Atualmente trabalho na Prefeitura Municipal, atuando no setor de Marketing, onde desenvolvo e apoio estratégias de comunicação digital.
 
 - Sou estudante de Engenharia de Software na Unicesumar, sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades em desenvolvimento e aplicar o que aprendo em projetos reais.
 
