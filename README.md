@@ -6,8 +6,6 @@
 
 <img align="center" alt="" src="./src/header-gif.gif">
 
-
-
 ## Hello World! I'm Luis Otavio. 
 
 - Atualmente trabalho na Prefeitura Municipal, atuando no setor de Marketing, onde desenvolvo e apoio estratégias de comunicação digital.
