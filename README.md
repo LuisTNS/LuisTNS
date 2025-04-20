@@ -10,7 +10,7 @@
 
 ## Hello World! I'm Luis Otavio. 
 
-<p align="center">- Atualmente trabalho na Prefeitura Municipal, atuando no setor de Marketing, onde desenvolvo e apoio estratégias de comunicação digital.
+- Atualmente trabalho na Prefeitura Municipal, atuando no setor de Marketing, onde desenvolvo e apoio estratégias de comunicação digital.
 
 - Sou estudante de Engenharia de Software na Unicesumar, sempre em busca de aprender novas tecnologias, aprimorar minhas habilidades em desenvolvimento e aplicar o que aprendo em projetos reais.
 
@@ -32,7 +32,9 @@
 </div>
 
 ##
+<img align="right" alt="" height="190px" src="./src/study.gif">
 
+<h3 align="left">Connect with me!</h3>
 <div> 
  <a href="https://instagram.com/luii_zin" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:luis.otta0@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
