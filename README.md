@@ -16,7 +16,7 @@ Hello World! I'm Luis Otavio
 - Vamos conversar? Contate-me por email: luis.otta0@gmail.com
 
 
-<h3 align="left">My Stack ~</h3>
+<h3 align="left">My Stack </h3>
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Luis-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
